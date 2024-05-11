@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a softphone Application built with Amazon Connect
 - 🌱 My tech stack includes React.JS  AWS Lambda, DynamoDB, Jest and Git
-- 📫 How to reach me: shruthifrumadev@gmail.com
+- 📫 How to reach me: suruthifrumadev@gmail.com
                       
 - 😄 Pronouns: She/Her
 
